@@ -53,7 +53,7 @@ CHANNEL_BUTTON = InlineKeyboardMarkup(
     )
 ADDME_BUTTON = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('↗ ADD ME TO A GROUP ↗', url="t.me/member_sticker_bot?startgroup=true")
+        InlineKeyboardButton('↗ ADD ME TO A GROUP ↗', url="t.me/heheheheheheheheehbot?startgroup=true")
         ]]
     )
 START_BUTTON = InlineKeyboardMarkup(
@@ -64,7 +64,7 @@ START_BUTTON = InlineKeyboardMarkup(
         [
         InlineKeyboardButton('↗ Join Here ↗', url='https://t.me/BughunterBots'),
         ],
-        [InlineKeyboardButton('↗ ADD ME TO A GROUP ↗', url="t.me/member_sticker_bot?startgroup=true")
+        [InlineKeyboardButton('↗ ADD ME TO A GROUP ↗', url="t.me/heheheheheheheheehbot?startgroup=true")
         ]]
         
     )
